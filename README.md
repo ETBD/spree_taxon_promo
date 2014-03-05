@@ -1,7 +1,9 @@
 SpreeTaxonPromo
 ===============
+Forked to provide support for Rails 4 and Spree 2.2.x
 
-This gem adds a Promotion to Spree that allows you to run a promo on products within a certain taxon. So for example, if you had a taxon that looked like
+This gem adds a Promotion to Spree that allows you to run a promo on products within a certain taxon.
+So for example, if you had a taxon that looked like
 
 ```
 Meals
