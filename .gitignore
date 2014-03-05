@@ -8,3 +8,6 @@ dump.rdb
 .DS_Store
 public/spree/
 public/assets/
+
+
+.idea
